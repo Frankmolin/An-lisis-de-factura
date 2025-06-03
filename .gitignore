@@ -1,0 +1,27 @@
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+
+# Archivos de bases de datos
+*.db
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de logs
+*.log
+
+# Archivos de salida de Jupyter
+*.ipynb_checkpoints/
+
+# Otros archivos temporales
+.DS_Store
+Thumbs.db
